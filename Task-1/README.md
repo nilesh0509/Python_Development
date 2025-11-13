@@ -1,11 +1,11 @@
 # 🧮 Simple CLI Calculator
 
-A clean and beginner-friendly **Command-Line Calculator** written in Python.
+A clean and beginner-friendly **CLI Calculator** written in Python.
 
 ---
 
 ## 📜 **Project Purpose**
-This project demonstrates how to build an interactive **command-line calculator** in Python.
+This project demonstrates how to build an interactive **CLI Calculator** in Python.
 It supports:
 - Addition
 - Subtraction
@@ -28,11 +28,12 @@ Perfect for beginners learning **Python functions**, **input handling**, and **e
 
 ## 📁 Project Structure
 
-📦 python-cli-calculator
-    |__Task-1
+    📁Python_Development/
+    │
+    └── 📁Task-1/
         ┣ 📜 calculator.py
         ┣ 📜 README.md
-        ┗ 📂 screenshots (optional)
+
 
 ---
 
